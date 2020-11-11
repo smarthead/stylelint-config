@@ -19,8 +19,8 @@
   },
   "main": "index.js",
   "files": [
-    "*/extended.js",
-    "*/index.js"
+    "index.js",
+    "extended.js"
   ],
   "keywords": [
     "stylelint",
