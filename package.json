@@ -1,6 +1,6 @@
 {
   "name": "@smarthead/stylelint-config",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "SmartHead config for Stylelint",
   "author": "SmartHead (https://smarthead.ru)",
   "homepage": "https://github.com/smarthead/stylelint-config",
