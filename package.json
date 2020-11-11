@@ -1,7 +1,7 @@
 {
   "name": "@smarthead/stylelint-config",
   "version": "1.5.0",
-  "description": "SmartHead's stylelint config",
+  "description": "SmartHead config for Stylelint",
   "author": "SmartHead (https://smarthead.ru)",
   "homepage": "https://github.com/smarthead/stylelint-config",
   "repository": {
@@ -19,7 +19,7 @@
   },
   "main": "index.js",
   "files": [
-    "config.json",
+    "*/extended.js",
     "*/index.js"
   ],
   "keywords": [
