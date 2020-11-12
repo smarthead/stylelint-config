@@ -1,6 +1,6 @@
 # Stylelint Config
 
-SmartHead config for Stylelint.
+SmartHead config for Stylelint
 
 Peer Dependencies (npm v7+ installs them automatically)
 ```
