@@ -1,6 +1,6 @@
 # Stylelint Config
 
-SmartHead config for Stylelint
+SmartHead config for Stylelint.
 
 You should install these peer dependencies, if you use npm v6 and less. Npm v7+ installs them automatically.
 ```
