@@ -14,7 +14,6 @@
   "private": false,
   "license": "MIT",
   "engines": {
-    "npm": ">=7.4",
     "node": ">=12"
   },
   "main": "index.js",
