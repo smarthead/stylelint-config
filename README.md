@@ -2,7 +2,7 @@
 
 SmartHead config for Stylelint
 
-Peer Dependencies (npm v7+ installs them automatically)
+You should install these peer dependencies, if you use npm v6 and less. Npm v7+ installs them automatically.
 ```
 stylelint
 stylelint-scss
