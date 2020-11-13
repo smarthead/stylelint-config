@@ -25,8 +25,7 @@ After install, just set your stylelint config to:
 {
     "extends": "stylelint-config-smarthead",
     "plugins": [
-        "stylelint-scss",
-        "stylelint-order"
+        "stylelint-scss"
     ]
 }
 ```
