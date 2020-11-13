@@ -12,7 +12,7 @@ stylelint
 stylelint-scss
 stylelint-order
 ```
-
+Install the config 
 ```
 npm install @smarthead/stylelint-config --save-dev
 ```
