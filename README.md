@@ -34,6 +34,10 @@ After install, just set your stylelint config to:
 #### Extended
 ```
 {
-    "extends": "@smarthead/stylelint-config/extended"
+    "extends": "@smarthead/stylelint-config/extended",
+    "plugins": [
+        "stylelint-scss",
+        "stylelint-order"
+    ]
 }
 ```
