@@ -2,7 +2,7 @@
 
 SmartHead config for Stylelint.
 
-This config is based on [stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard) [stylelint-config-recommended-scss](https://www.npmjs.com/package/stylelint-config-recommended-scss)
+This config is based on [stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard) and [stylelint-config-recommended-scss](https://www.npmjs.com/package/stylelint-config-recommended-scss)
 
 ## Installation
 
